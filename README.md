@@ -30,3 +30,9 @@ node index.js
 ## Server Runs On
 
 http://localhost:5000
+
+## 👨‍💻 Author
+**Vishal Tiwari**  
+Final Year Engineering Student | Aspiring Software Engineer  
+
+📌 This project was built to solve a real problem faced by students during campus placements.
